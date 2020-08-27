@@ -1,3 +1,5 @@
+https://raspberrypi.stackexchange.com/questions/67719/how-do-i-install-the-drivers-for-a-wifi-dongle-with-the-realtek-8812au-chipset-o
+
 # rtl8192eu linux drivers
 
 **NOTE:** This branch is based on Realtek's driver versioned 4.4.1. `master` is based on 4.3.1.1 originally.
